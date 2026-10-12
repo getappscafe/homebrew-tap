@@ -21,8 +21,8 @@ cask "fontsiphon" do
   zap trash: [
     "~/Library/Application Support/cafe.getapps.fontsiphon",
     "~/Library/Caches/cafe.getapps.fontsiphon",
+    "~/Library/Caches/FontSiphon",
     "~/Library/Preferences/cafe.getapps.fontsiphon.plist",
-    "~/Library/Saved Application State/cafe.getapps.fontsiphon.savedState",
     "~/Library/WebKit/cafe.getapps.fontsiphon",
   ]
 end

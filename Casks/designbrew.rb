@@ -21,8 +21,8 @@ cask "designbrew" do
   zap trash: [
     "~/Library/Application Support/cafe.getapps.designbrew",
     "~/Library/Caches/cafe.getapps.designbrew",
+    "~/Library/Caches/DesignBrew",
     "~/Library/Preferences/cafe.getapps.designbrew.plist",
-    "~/Library/Saved Application State/cafe.getapps.designbrew.savedState",
     "~/Library/WebKit/cafe.getapps.designbrew",
   ]
 end

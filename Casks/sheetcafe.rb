@@ -21,8 +21,8 @@ cask "sheetcafe" do
   zap trash: [
     "~/Library/Application Support/cafe.getapps.sheetcafe",
     "~/Library/Caches/cafe.getapps.sheetcafe",
+    "~/Library/Caches/SheetCafe",
     "~/Library/Preferences/cafe.getapps.sheetcafe.plist",
-    "~/Library/Saved Application State/cafe.getapps.sheetcafe.savedState",
     "~/Library/WebKit/cafe.getapps.sheetcafe",
   ]
 end

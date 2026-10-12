@@ -21,8 +21,8 @@ cask "resumeroast" do
   zap trash: [
     "~/Library/Application Support/cafe.getapps.resumeroast",
     "~/Library/Caches/cafe.getapps.resumeroast",
+    "~/Library/Caches/ResumeRoast",
     "~/Library/Preferences/cafe.getapps.resumeroast.plist",
-    "~/Library/Saved Application State/cafe.getapps.resumeroast.savedState",
     "~/Library/WebKit/cafe.getapps.resumeroast",
   ]
 end

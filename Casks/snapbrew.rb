@@ -21,8 +21,8 @@ cask "snapbrew" do
   zap trash: [
     "~/Library/Application Support/cafe.getapps.snapbrew",
     "~/Library/Caches/cafe.getapps.snapbrew",
+    "~/Library/Caches/SnapBrew",
     "~/Library/Preferences/cafe.getapps.snapbrew.plist",
-    "~/Library/Saved Application State/cafe.getapps.snapbrew.savedState",
     "~/Library/WebKit/cafe.getapps.snapbrew",
   ]
 end

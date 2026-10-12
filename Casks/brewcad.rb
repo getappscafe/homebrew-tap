@@ -20,9 +20,9 @@ cask "brewcad" do
 
   zap trash: [
     "~/Library/Application Support/cafe.getapps.brewcad",
+    "~/Library/Caches/BrewCAD",
     "~/Library/Caches/cafe.getapps.brewcad",
     "~/Library/Preferences/cafe.getapps.brewcad.plist",
-    "~/Library/Saved Application State/cafe.getapps.brewcad.savedState",
     "~/Library/WebKit/cafe.getapps.brewcad",
   ]
 end

@@ -21,8 +21,8 @@ cask "doccafe" do
   zap trash: [
     "~/Library/Application Support/cafe.getapps.doccafe",
     "~/Library/Caches/cafe.getapps.doccafe",
+    "~/Library/Caches/DocCafe",
     "~/Library/Preferences/cafe.getapps.doccafe.plist",
-    "~/Library/Saved Application State/cafe.getapps.doccafe.savedState",
     "~/Library/WebKit/cafe.getapps.doccafe",
   ]
 end

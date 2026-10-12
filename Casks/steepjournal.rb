@@ -21,8 +21,8 @@ cask "steepjournal" do
   zap trash: [
     "~/Library/Application Support/cafe.getapps.steepjournal",
     "~/Library/Caches/cafe.getapps.steepjournal",
+    "~/Library/Caches/SteepJournal",
     "~/Library/Preferences/cafe.getapps.steepjournal.plist",
-    "~/Library/Saved Application State/cafe.getapps.steepjournal.savedState",
     "~/Library/WebKit/cafe.getapps.steepjournal",
   ]
 end

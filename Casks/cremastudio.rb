@@ -21,8 +21,8 @@ cask "cremastudio" do
   zap trash: [
     "~/Library/Application Support/cafe.getapps.cremastudio",
     "~/Library/Caches/cafe.getapps.cremastudio",
+    "~/Library/Caches/CremaStudio",
     "~/Library/Preferences/cafe.getapps.cremastudio.plist",
-    "~/Library/Saved Application State/cafe.getapps.cremastudio.savedState",
     "~/Library/WebKit/cafe.getapps.cremastudio",
   ]
 end

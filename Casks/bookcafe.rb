@@ -20,9 +20,9 @@ cask "bookcafe" do
 
   zap trash: [
     "~/Library/Application Support/cafe.getapps.bookcafe",
+    "~/Library/Caches/BookCafe",
     "~/Library/Caches/cafe.getapps.bookcafe",
     "~/Library/Preferences/cafe.getapps.bookcafe.plist",
-    "~/Library/Saved Application State/cafe.getapps.bookcafe.savedState",
     "~/Library/WebKit/cafe.getapps.bookcafe",
   ]
 end
